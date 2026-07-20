@@ -1,0 +1,74 @@
+[2026-07-17 19:30:42] [INFO ] === Smart Number Guessing Game Pro starting ===
+[2026-07-17 19:30:42] [INFO ] No profile found — created default player.
+[2026-07-17 19:30:52] [INFO ] === Smart Number Guessing Game Pro starting ===
+[2026-07-17 19:30:52] [INFO ] No profile found — created default player.
+[2026-07-17 19:31:00] [INFO ] === Smart Number Guessing Game Pro starting ===
+[2026-07-17 19:31:00] [INFO ] No profile found — created default player.
+[2026-07-17 19:31:28] [INFO ] === Smart Number Guessing Game Pro starting ===
+[2026-07-17 19:31:28] [INFO ] No profile found — created default player.
+[2026-07-17 19:31:28] [INFO ] Leaderboard loaded: 0 entries.
+[2026-07-17 19:31:34] [INFO ] New game started: difficulty=Medium, range=[1,100], maxAttempts=10
+[2026-07-17 19:31:34] [INFO ] Main window displayed — game started.
+[2026-07-17 19:31:49] [DEBUG] Guess 5 → TOO_LOW
+[2026-07-17 19:32:08] [DEBUG] Guess 82 → TOO_HIGH
+[2026-07-17 19:32:21] [DEBUG] Hint revealed: Odd / Even → The number is ODD.
+[2026-07-17 19:32:21] [DEBUG] Guess 56 → TOO_HIGH
+[2026-07-17 19:32:28] [DEBUG] Hint revealed: Prime Check → The number is NOT prime.
+[2026-07-17 19:32:28] [DEBUG] Guess 21 → TOO_LOW
+[2026-07-17 19:33:07] [DEBUG] Hint revealed: Multiple of 5 → The number is NOT a multiple of 5.
+[2026-07-17 19:33:07] [DEBUG] Guess 35 → TOO_HIGH
+[2026-07-17 19:33:32] [DEBUG] Hint revealed: Narrowed Range → The number lies between 21 and 45.
+[2026-07-17 19:33:32] [DEBUG] Guess 46 → TOO_HIGH
+[2026-07-17 19:34:25] [DEBUG] Guess 42 → TOO_HIGH
+[2026-07-17 19:34:42] [DEBUG] Guess 38 → TOO_HIGH
+[2026-07-17 19:34:53] [DEBUG] Guess 28 → TOO_LOW
+[2026-07-17 19:35:23] [INFO ] Profile saved: Player
+[2026-07-17 19:35:23] [INFO ] Game over. Secret was 33
+[2026-07-17 19:35:23] [DEBUG] Guess 32 → GAME_OVER
+[2026-07-17 19:37:08] [INFO ] Theme toggled to LIGHT
+[2026-07-17 19:37:10] [INFO ] Theme toggled to DARK
+[2026-07-17 19:37:16] [INFO ] New game started: difficulty=Medium, range=[1,100], maxAttempts=10
+[2026-07-17 19:37:19] [INFO ] New game started: difficulty=Medium, range=[1,100], maxAttempts=10
+[2026-07-17 19:37:20] [INFO ] New game started: difficulty=Medium, range=[1,100], maxAttempts=10
+[2026-07-17 19:37:20] [INFO ] New game started: difficulty=Medium, range=[1,100], maxAttempts=10
+[2026-07-17 19:37:57] [INFO ] Profile saved: Anushka
+[2026-07-17 19:37:57] [INFO ] Profile saved: Anushka
+[2026-07-17 19:38:01] [INFO ] Profile saved: Anushka
+[2026-07-17 19:38:01] [INFO ] Profile saved: Anushka
+[2026-07-17 19:38:21] [DEBUG] Guess 33 → TOO_LOW
+[2026-07-17 19:38:32] [DEBUG] Guess 57 → TOO_LOW
+[2026-07-17 19:38:43] [DEBUG] Hint revealed: Odd / Even → The number is ODD.
+[2026-07-17 19:38:43] [DEBUG] Guess 89 → TOO_LOW
+[2026-07-17 19:39:05] [DEBUG] Hint revealed: Prime Check → The number is NOT prime.
+[2026-07-17 19:39:05] [DEBUG] Guess 95 → TOO_HIGH
+[2026-07-17 19:39:25] [DEBUG] Hint revealed: Multiple of 5 → The number is NOT a multiple of 5.
+[2026-07-17 19:39:25] [DEBUG] Guess 91 → TOO_LOW
+[2026-07-17 19:39:34] [INFO ] Player guessed correctly! number=93, attempts=6, score=60
+[2026-07-17 19:39:34] [INFO ] Profile saved: Anushka
+[2026-07-17 19:39:34] [INFO ] Leaderboard updated: LeaderboardEntry[player=Anushka, score=60, difficulty=Medium, attempts=6, date=2026-07-17]
+[2026-07-17 19:39:34] [DEBUG] Guess 93 → CORRECT
+[2026-07-17 19:40:24] [INFO ] Profile saved: Anushka
+[2026-07-17 19:40:24] [INFO ] Application exited by user.
+[2026-07-17 20:47:36] [INFO ] === Smart Number Guessing Game Pro starting ===
+[2026-07-17 20:47:36] [INFO ] Profile loaded: Anushka
+[2026-07-17 20:47:36] [INFO ] Leaderboard loaded: 1 entries.
+[2026-07-17 20:47:41] [INFO ] New game started: difficulty=Medium, range=[1,100], maxAttempts=10
+[2026-07-17 20:47:42] [INFO ] Main window displayed — game started.
+[2026-07-17 20:48:02] [DEBUG] Guess 89 → TOO_HIGH
+[2026-07-17 20:48:10] [DEBUG] Guess 70 → TOO_HIGH
+[2026-07-17 20:48:14] [DEBUG] Hint revealed: Odd / Even → The number is EVEN.
+[2026-07-17 20:48:14] [DEBUG] Guess 50 → TOO_HIGH
+[2026-07-17 20:48:21] [DEBUG] Hint revealed: Prime Check → The number is NOT prime.
+[2026-07-17 20:48:21] [DEBUG] Guess 10 → TOO_LOW
+[2026-07-17 20:48:30] [DEBUG] Hint revealed: Multiple of 5 → The number is NOT a multiple of 5.
+[2026-07-17 20:48:30] [DEBUG] Guess 30 → TOO_LOW
+[2026-07-17 20:48:43] [DEBUG] Hint revealed: Narrowed Range → The number lies between 34 and 58.
+[2026-07-17 20:48:43] [DEBUG] Guess 40 → TOO_LOW
+[2026-07-17 20:48:51] [DEBUG] Guess 56 → TOO_HIGH
+[2026-07-17 20:49:11] [DEBUG] Guess 58 → TOO_HIGH
+[2026-07-17 20:49:22] [DEBUG] Guess 38 → TOO_LOW
+[2026-07-17 20:49:45] [INFO ] Profile saved: Anushka
+[2026-07-17 20:49:45] [INFO ] Game over. Secret was 46
+[2026-07-17 20:49:45] [DEBUG] Guess 43 → GAME_OVER
+[2026-07-17 20:50:34] [INFO ] Profile saved: Anushka
+[2026-07-17 20:50:34] [INFO ] Application exited by user.
